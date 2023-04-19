@@ -5,7 +5,9 @@ pip install -r requirements.txt
 ```
 
 ## About the script and what to change
-Place the codes in codes.txt
+Place the codes in codes.txt.
+
+
 I have two 1920x1080 monitor so that's why check_x function works the way it does.
 If these configurations don't work for you... Use smt like greenshot or whichever program to find the coordinates of the mouse and add them in the code.
 
